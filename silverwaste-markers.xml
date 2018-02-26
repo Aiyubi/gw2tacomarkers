@@ -1,0 +1,169 @@
+<OverlayData>
+	<MarkerCategory name="classic_gw2" DisplayName="Classic GW2">
+		<MarkerCategory name="season2" DisplayName="Living World Season 2">
+			<MarkerCategory name="silverwastes" DisplayName="Silverwastes">
+				<MarkerCategory name="chestfarm_chests" DisplayName="Chestfarm Chests" iconFile="Data\shovel.png" iconSize="1" fadeNear="3000" fadeFar="4000" heightOffset="1.5" behavior="4" resetLength="300"/>
+				<MarkerCategory name="endchests" DisplayName="Vinewrath Chests" iconFile="Data\chest.png" iconSize="0.5" fadeNear="2500" fadeFar="3000" heightOffset="0" behavior="0"/>
+				<MarkerCategory name="events" DisplayName="Events">
+					<MarkerCategory name="reddolyaks" DisplayName="Red Dolyak" iconFile="Data\red-shield.png" iconSize="0.5" fadeNear="2500" fadeFar="3000" heightOffset="1.5" behavior="4" resetLength="300"/>
+					<MarkerCategory name="indigodolyaks" DisplayName="Indigo Dolyak" iconFile="Data\indigo-shield.png" iconSize="0.5" fadeNear="2500" fadeFar="3000" heightOffset="1.5" behavior="4" resetLength="300"/>
+					<MarkerCategory name="bluedolyaks" DisplayName="Blue Dolyak" iconFile="Data\blue-shield.png" iconSize="0.5" fadeNear="2500" fadeFar="3000" heightOffset="1.5" behavior="4" resetLength="300"/>
+					<MarkerCategory name="amberdolyaks" DisplayName="Amber Dolyak" iconFile="Data\amber-shield.png" iconSize="0.5" fadeNear="2500" fadeFar="3000" heightOffset="1.5" behavior="4" resetLength="300"/>
+				</MarkerCategory>
+				<MarkerCategory name="trails" DisplayName="Trails">
+					<MarkerCategory name="riba" DisplayName="RIBA route"/>
+					<MarkerCategory name="cf" DisplayName="Chestfarm route"/>
+				</MarkerCategory>
+				<MarkerCategory name="forts" DisplayName="Fort Markers">
+					<MarkerCategory name="redfort" DisplayName="Red Fort" iconFile="Data\fort-r.png" heightOffset="1.5" behavior="0"/>
+					<MarkerCategory name="indigofort" DisplayName="Indigo Fort" iconFile="Data\fort-i.png" heightOffset="1.5" behavior="0"/>
+					<MarkerCategory name="bluefort" DisplayName="Blue Fort" iconFile="Data\fort-b.png" heightOffset="1.5" behavior="0"/>
+					<MarkerCategory name="amberfort" DisplayName="Amber Fort" iconFile="Data\fort-a.png" heightOffset="1.5" behavior="0"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1015" xpos="-286.747" ypos="416.273" zpos="-209.492" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="5YEfwbto4kqojFr96oJrvw=="/>
+		<POI MapID="1015" xpos="-314.308" ypos="418.026" zpos="-175.687" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="2Tyo8P3k0k2A1qC2f9f8dQ=="/>
+		<POI MapID="1015" xpos="-166.978" ypos="414.222" zpos="-129.896" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="3yfVAA+fmEq3xaeVnZGZeA=="/>
+		<POI MapID="1015" xpos="-221.754" ypos="416.178" zpos="34.3548" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="eBywhB8TeEatyz/SRsNGfw=="/>
+		<POI MapID="1015" xpos="-214.879" ypos="417.919" zpos="53.7617" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="ECV1HkkQnUGNrK0FH26DlA=="/>
+		<POI MapID="1015" xpos="-62.2855" ypos="403.274" zpos="174.221" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="5v67JU1+Fku9Srg4jK6h0g=="/>
+		<POI MapID="1015" xpos="-274.701" ypos="418.863" zpos="219.75" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="d1zsF2vsSU6WlqipvBq19Q=="/>
+		<POI MapID="1015" xpos="-391.499" ypos="428.128" zpos="166.53" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="O4RMTTxcnU6mDOMaMvstQA=="/>
+		<POI MapID="1015" xpos="-258.102" ypos="416.657" zpos="-73.989" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="I4AjuBn3oUuEK5IR7KZn3Q=="/>
+		<POI MapID="1015" xpos="-231.927" ypos="415.335" zpos="-95.0847" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="t+chKbeADEeHgFDgIlOqSg=="/>
+		<POI MapID="1015" xpos="-455.524" ypos="435.81" zpos="-0.304658" type="classic_gw2.season2.silverwastes.endchests" GUID="orNLMZJLcUWlHycqpEstsA=="/>
+		<POI MapID="1015" xpos="-457.118" ypos="434.785" zpos="-7.40962" type="classic_gw2.season2.silverwastes.endchests" GUID="suK3+KgJA0moDsAxvl+V8g=="/>
+		<POI MapID="1015" xpos="-473.337" ypos="434.349" zpos="-35.9685" type="classic_gw2.season2.silverwastes.endchests" GUID="zo0H/rmIp0WD7b8QNwAUDQ=="/>
+		<POI MapID="1015" xpos="-480.17" ypos="434.679" zpos="-42.1354" type="classic_gw2.season2.silverwastes.endchests" GUID="rSV9SAIJf0GFUuEyehQglw=="/>
+		<POI MapID="1015" xpos="-89.9913" ypos="414.503" zpos="-151.488" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="SXc1egV0uk2D8nqCMElTyg=="/>
+		<POI MapID="1015" xpos="77.7047" ypos="413.761" zpos="-269.62" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="/gmbm3Y96UeQfe9QfcucDQ=="/>
+		<POI MapID="1015" xpos="56.0187" ypos="418.632" zpos="106.18" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="Sv9JCKdSYkuceIqfhpo1WQ=="/>
+		<POI MapID="1015" xpos="13.3519" ypos="416.735" zpos="157.016" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="rj8ktbR+VECiDbqTAYZupQ=="/>
+		<POI MapID="1015" xpos="-86.8689" ypos="413.887" zpos="-347.147" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="pOVr/Fr+Zk60ldHsIesK/g=="/>
+		<POI MapID="1015" xpos="-5.03533" ypos="413.461" zpos="-338.919" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="ZIPSupCmSU6ZErWKRo4jeg=="/>
+		<POI MapID="1015" xpos="75.6183" ypos="414.586" zpos="-372.216" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="ulIx2pzUWUiHFn76oSo6VA=="/>
+		<POI MapID="1015" xpos="119.984" ypos="413.985" zpos="-414.366" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="21uuxT5hJUi3O4PKtXsePw=="/>
+		<POI MapID="1015" xpos="22.2316" ypos="418.471" zpos="131.285" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="RqWKSDE/y0a1pBdx9EduwQ=="/>
+		<POI MapID="1015" xpos="-127.589" ypos="413.269" zpos="90.7179" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="I/n8UKo5PUuWw+oSsgc+qA=="/>
+		<POI MapID="1015" xpos="-98.3927" ypos="412.95" zpos="133.582" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="zxXTeY7YQEGOfcjnifP4Ew=="/>
+		<POI MapID="1015" xpos="-174.537" ypos="417.813" zpos="268.893" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="6CssIyTeD0SF+lbCbEpHFA=="/>
+		<POI MapID="1015" xpos="-356.709" ypos="418.993" zpos="-188.64" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="+qozoe9lSkmccVRrImU27w=="/>
+		<POI MapID="1015" xpos="-58.5114" ypos="413.878" zpos="-225.285" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="LyoGVmyJxk6lnFT3AiZ4ew=="/>
+		<POI MapID="1015" xpos="53.2412" ypos="412.665" zpos="-228.88" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="jSl/NNxq/ki1SWuzIJFx/g=="/>
+		<POI MapID="1015" xpos="278.657" ypos="413.21" zpos="-392.312" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="+MKEWTuEOkWUsZVLQVAwMg=="/>
+		<POI MapID="1015" xpos="298.431" ypos="413.486" zpos="-340.279" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="stnJTcq5VkK+loYWOeXJWg=="/>
+		<POI MapID="1015" xpos="430.016" ypos="413.822" zpos="-398.303" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="LilXM0xgQ0mWEOl6ZG6fnw=="/>
+		<POI MapID="1015" xpos="501.695" ypos="405.56" zpos="-277.491" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="5ezmtxvBmEObRd4zuHikyw=="/>
+		<POI MapID="1015" xpos="589.814" ypos="415.135" zpos="-154.681" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="Yqdi/Av31U2VrzHON5HkWw=="/>
+		<POI MapID="1015" xpos="393.379" ypos="402.42" zpos="-31.9877" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="QvJwdD9A+US9uJdjYLEkDA=="/>
+		<POI MapID="1015" xpos="569.967" ypos="372.712" zpos="-20.5291" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="B8LBX0a1+ECFh3hwrZjYMg=="/>
+		<POI MapID="1015" xpos="601.83" ypos="374.429" zpos="25.5319" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="oZzPvPY4wEOzj9U/+i/0AQ=="/>
+		<POI MapID="1015" xpos="-280.37" ypos="422.865" zpos="94.5418" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="8JcajpSi50Osa0d4xIAZ3Q=="/>
+		<POI MapID="1015" xpos="-188.757" ypos="415.547" zpos="-63.9381" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="cDyef4W5v0ePkAdAYO6/tg=="/>
+		<POI MapID="1015" xpos="-219.685" ypos="416.786" zpos="-189.894" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="1SqEL1P+dEuiikyEBoWJog=="/>
+		<POI MapID="1015" xpos="-56.6446" ypos="414.797" zpos="-278.914" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="/96LZV8y5US/ufCimN/Flw=="/>
+		<POI MapID="1015" xpos="-75.3501" ypos="416.006" zpos="-189.88" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="h8pXOUQm70emJ1Ack6Cm6g=="/>
+		<POI MapID="1015" xpos="6.13334" ypos="413.111" zpos="-216.657" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="XEkdxJfgFES3jhJSW9dpsg=="/>
+		<POI MapID="1015" xpos="561.725" ypos="416.784" zpos="-389.487" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="tOSXBZIryUmk5vCfjiD8Zw=="/>
+		<POI MapID="1015" xpos="548.04" ypos="414.849" zpos="-110.533" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="NFKuAtXO/EyRndQURs0XdA=="/>
+		<POI MapID="1015" xpos="324.354" ypos="396.161" zpos="-77.024" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="WSykjX+NH0yo/xU4twR9Bw=="/>
+		<POI MapID="1015" xpos="399.769" ypos="370.646" zpos="64.2735" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="kKMnpwB20E6UuPc8vfs2ZA=="/>
+		<POI MapID="1015" xpos="-442.231" ypos="425.147" zpos="204.473" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="q//MQMqtA0Kpmwt/zn4uNQ=="/>
+		<POI MapID="1015" xpos="102.773" ypos="413.929" zpos="-309.11" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="+NZkbbSxDkSevyXhzBBRdw=="/>
+		<POI MapID="1015" xpos="-80.3333" ypos="418.447" zpos="189.209" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="cD0f1wk5A0aK8d/qeZzJ5Q=="/>
+		<POI MapID="1015" xpos="-118.105" ypos="417.757" zpos="245.518" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="30cw9Q5LxkGYy+yVF4Fpqw=="/>
+		<POI MapID="1015" xpos="-265.742" ypos="420.648" zpos="294.044" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="Kv/1FACsJECWM9bPkV701Q=="/>
+		<POI MapID="1015" xpos="-194.512" ypos="415.632" zpos="-15.1719" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="e6pM2aICN0O0rJEWMb3Lhg=="/>
+		<POI MapID="1015" xpos="-342.296" ypos="436.59" zpos="-42.326" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="8IYgqvreB0KdhGV1sUpykA=="/>
+		<POI MapID="1015" xpos="-380.164" ypos="440.102" zpos="-43.5247" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="WbksfLx8jEOr3dwcxDYELg=="/>
+		<POI MapID="1015" xpos="-327.047" ypos="416.331" zpos="-204.383" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="aGBx/lpIPE2q2GWyPqY/eg=="/>
+		<POI MapID="1015" xpos="-40.2755" ypos="414.929" zpos="-180.778" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="inD9y6h3Nk2u0rbBtMWF7g=="/>
+		<POI MapID="1015" xpos="60.7109" ypos="414.368" zpos="-179.639" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="rvEhCfHMFEGWV4s4pUcbTQ=="/>
+		<POI MapID="1015" xpos="154.373" ypos="413.881" zpos="-407.056" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="s9X6mFr5YEme5MPBkpg4mg=="/>
+		<POI MapID="1015" xpos="388.046" ypos="413.89" zpos="-270.444" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="jn7DTZ00KEGacm5u7xxaZg=="/>
+		<POI MapID="1015" xpos="525.41" ypos="416.634" zpos="-355.991" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="2kLXgscZd0OaMFMrUuCoAw=="/>
+		<POI MapID="1015" xpos="506.118" ypos="415.787" zpos="-137.46" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="cb/7zYiVuU+G7ptVSpv53w=="/>
+		<POI MapID="1015" xpos="398.931" ypos="408.402" zpos="-84.5389" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="v1lL+5KB4UicQNGEVaw7WQ=="/>
+		<POI MapID="1015" xpos="388.556" ypos="409.661" zpos="-70.699" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="oce7ro7OcE2ecFLkji/Hyg=="/>
+		<POI MapID="1015" xpos="210.746" ypos="413.485" zpos="132.86" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="ZOVzg4e+YE2jpQBuaHTA7g=="/>
+		<POI MapID="1015" xpos="154.752" ypos="414.375" zpos="126.682" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="evsAD/1bYUu0hChxxA0T4Q=="/>
+		<POI MapID="1015" xpos="-232.686" ypos="412.644" zpos="-52.8765" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="ZX/VTVYPM0ytEx2iLd71qA=="/>
+		<POI MapID="1015" xpos="-173.517" ypos="417.204" zpos="-213.515" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="YxRhNj0RdUux78+a17dmCQ=="/>
+		<POI MapID="1015" xpos="-19.9883" ypos="414.158" zpos="-269.503" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="8dXcGr+5r0mblUIFi1xGGg=="/>
+		<POI MapID="1015" xpos="403.987" ypos="413.878" zpos="-354.21" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="1GnZGCbhS0Sin1eRPt9lkQ=="/>
+		<POI MapID="1015" xpos="363.775" ypos="374.17" zpos="59.0359" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="MTRkzyQWKUuAS8VZjKVnXw=="/>
+		<POI MapID="1015" xpos="327.128" ypos="378.794" zpos="-24.5691" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="GqUop3fAxEWylRUfT6l38Q=="/>
+		<POI MapID="1015" xpos="197.57" ypos="413.247" zpos="-81.3137" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="yC5aSSnUq0eDPux/djuGAg=="/>
+		<POI MapID="1015" xpos="27.0699" ypos="416.301" zpos="51.5632" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="kScNUfEmbkWcYLMaxzWcLg=="/>
+		<POI MapID="1015" xpos="-62.7714" ypos="415.695" zpos="204.855" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="goP6d4Kh3kub4f2iyCpOmg=="/>
+		<POI MapID="1015" xpos="-205.123" ypos="417.987" zpos="233.245" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="I9jaZqFRHU+BUXGcD37znQ=="/>
+		<POI MapID="1015" xpos="65.5605" ypos="415.929" zpos="18.1792" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="jXZOk2NY/UicgKfWbTc3Ng=="/>
+		<POI MapID="1015" xpos="-29.3886" ypos="416.905" zpos="56.1761" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="BQL3oI8580u6yri69Gm1qQ=="/>
+		<POI MapID="1015" xpos="333.534" ypos="412.685" zpos="-300.489" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="Ukw7ntolSU2ubqPSdGEQ9w=="/>
+		<POI MapID="1015" xpos="96.8853" ypos="416.168" zpos="95.1163" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="dLwoSLADyEyHtOYkzowBRw=="/>
+		<POI MapID="1015" xpos="-76.6013" ypos="410.875" zpos="96.1433" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="a7rHGVSzJke7YbTB/rBvuA=="/>
+		<POI MapID="1015" xpos="-358.948" ypos="448.412" zpos="147.417" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="5D60BJzqTUK4ZkVnR24Vpw=="/>
+		<POI MapID="1015" xpos="-49.0459" ypos="413.324" zpos="-325.645" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="URCJjuCjx0K70IKUto9Gow=="/>
+		<POI MapID="1015" xpos="174.64" ypos="413.104" zpos="-206.647" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="SdayC4efCk+PJjlFLmyNKA=="/>
+		<POI MapID="1015" xpos="416.862" ypos="411.985" zpos="-109.642" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="YuVz8UL5v0qmz1PFQUUVYA=="/>
+		<POI MapID="1015" xpos="122.036" ypos="425.545" zpos="64.092" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="2kxGVD/UPUyogDq3L9qc0Q=="/>
+		<POI MapID="1015" xpos="-368.272" ypos="421.599" zpos="214.103" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="hw40dMu11UOiM9szCLkR3w=="/>
+		<POI MapID="1015" xpos="-234.926" ypos="420.313" zpos="-167.064" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="1rViHduOjkGd/v9/Nttcfg=="/>
+		<POI MapID="1015" xpos="100.952" ypos="412.715" zpos="-234.941" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="sCDgRWmZiECzNMMa5sGdOA=="/>
+		<POI MapID="1015" xpos="117.838" ypos="414.892" zpos="-333.894" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="PQOxAyv7T0u5IyxuUUJiNA=="/>
+		<POI MapID="1015" xpos="575.66" ypos="417.02" zpos="-358.611" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="i62rEBJkvkyuUP3GqicUdg=="/>
+		<POI MapID="1015" xpos="67.1069" ypos="419.245" zpos="60.0919" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="AS+3Uk71J0SiracJNtheyA=="/>
+		<POI MapID="1015" xpos="-173.454" ypos="418.243" zpos="36.644" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="jeeyW6DY9U+ejOUb4lyR6Q=="/>
+		<POI MapID="1015" xpos="-225.144" ypos="416.512" zpos="-143.055" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="i3jwLVaVCEKG/Qb4dvimDQ=="/>
+		<POI MapID="1015" xpos="149.786" ypos="413.782" zpos="-263.881" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="LRnso0OdCUWWNxiwNxm7Ng=="/>
+		<POI MapID="1015" xpos="1.13387" ypos="418.297" zpos="100.257" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="2+Rz8UYClUOIyJpL2F8taw=="/>
+		<POI MapID="1015" xpos="-318.644" ypos="438.474" zpos="44.5704" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="qoUfDXQjUECqEJRM9CsVnQ=="/>
+		<POI MapID="1015" xpos="201.758" ypos="414.472" zpos="-262.391" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="QmuZ97VHb0ui/fcSiRI1CQ=="/>
+		<POI MapID="1015" xpos="345.222" ypos="370.628" zpos="38.5851" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="wuAKb+V7XEeHXvwm9gtuzQ=="/>
+		<POI MapID="1015" xpos="-105.48" ypos="414.769" zpos="-296.004" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="Z+aMjjg/ZEqLHwTH6kwLRA=="/>
+		<POI MapID="1015" xpos="-467.756" ypos="433.819" zpos="-29.6387" type="classic_gw2.season2.silverwastes.endchests" GUID="reALwNfu00mRJ39E15YM3A=="/>
+		<POI MapID="1015" xpos="-459.133" ypos="437.42" zpos="6.54704" type="classic_gw2.season2.silverwastes.endchests" GUID="oa5NsENZR0u21SVd07go+w=="/>
+		<POI MapID="1015" xpos="193.932" ypos="415.933" zpos="-69.8213" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="loFcMY1H9kK9EiM27ZfXaw=="/>
+		<POI MapID="1015" xpos="-80.7753" ypos="418.159" zpos="242.872" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="f5OcRMQrbE+tGDVeOOV7MQ=="/>
+		<POI MapID="1015" xpos="-205.912" ypos="416.58" zpos="89.1423" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="Fx1A4KAUi0W3G/5lxj2RCA=="/>
+		<POI MapID="1015" xpos="155.861" ypos="413.891" zpos="19.6448" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="2ADuEngBfkGFua6QGV3M+g=="/>
+		<POI MapID="1015" xpos="334.003" ypos="397.401" zpos="-79.4516" type="classic_gw2.season2.silverwastes.events.indigodolyaks" GUID="JLXCzsvcdEOSZ1i0ozn+HQ=="/>
+		<POI MapID="1015" xpos="241.098" ypos="398.929" zpos="-76.0854" type="classic_gw2.season2.silverwastes.events.indigodolyaks" GUID="ox4bbp0afUuZm2fs2/6Lig=="/>
+		<POI MapID="1015" xpos="143.894" ypos="417.147" zpos="-24.645" type="classic_gw2.season2.silverwastes.events.indigodolyaks" GUID="BhV2JBAd/EWhg4+QX0yIAQ=="/>
+		<POI MapID="1015" xpos="24.6672" ypos="415.782" zpos="48.3604" type="classic_gw2.season2.silverwastes.events.bluedolyaks" GUID="+qdJt+Bnj0ac95Ceh1YorA=="/>
+		<POI MapID="1015" xpos="-49.0756" ypos="416.961" zpos="52.2413" type="classic_gw2.season2.silverwastes.events.bluedolyaks" GUID="KTpmwrGyuUOSW2NxW/tB1A=="/>
+		<POI MapID="1015" xpos="-111.768" ypos="415.531" zpos="57.8498" type="classic_gw2.season2.silverwastes.events.bluedolyaks" GUID="kMPimUm7JU+qlH7BuWC6KA=="/>
+		<POI MapID="1015" xpos="252.189" ypos="413.256" zpos="-402.558" type="classic_gw2.season2.silverwastes.events.reddolyaks" GUID="B0ETSSUyrEKZqvS7OqJPBw=="/>
+		<POI MapID="1015" xpos="377.813" ypos="412.643" zpos="-296.01" type="classic_gw2.season2.silverwastes.events.reddolyaks" GUID="QULBBLtjRECS2G3sLRT1WQ=="/>
+		<POI MapID="1015" xpos="318.337" ypos="411.757" zpos="-313.931" type="classic_gw2.season2.silverwastes.events.reddolyaks" GUID="QRV3iR4rK0uQCfPjf17Y4g=="/>
+		<POI MapID="1015" xpos="97.0618" ypos="413.548" zpos="-312.616" type="classic_gw2.season2.silverwastes.events.indigodolyaks" GUID="cs36mPURO0ODndpUg5eUsA=="/>
+		<POI MapID="1015" xpos="90.4214" ypos="412.345" zpos="-247.786" type="classic_gw2.season2.silverwastes.events.indigodolyaks" GUID="XQqCHHsSOUmINccpFjMbDg=="/>
+		<POI MapID="1015" xpos="54.1807" ypos="412.96" zpos="-208.465" type="classic_gw2.season2.silverwastes.events.indigodolyaks" GUID="neKjjVtvv0eS6uTf4MmR+w=="/>
+		<POI MapID="1015" xpos="55.1819" ypos="413.536" zpos="-331.275" type="classic_gw2.season2.silverwastes.events.amberdolyaks" GUID="94c0TowUhUmyAyJHb3n0/A=="/>
+		<POI MapID="1015" xpos="-22.4281" ypos="413.313" zpos="-334.945" type="classic_gw2.season2.silverwastes.events.amberdolyaks" GUID="KopSSqY3RUyS649JOY2emw=="/>
+		<POI MapID="1015" xpos="-134.077" ypos="416.637" zpos="-303.635" type="classic_gw2.season2.silverwastes.events.amberdolyaks" GUID="sSMah8WENUeV1fT5Xq5kDQ=="/>
+		<POI MapID="1015" xpos="225.06" ypos="413.224" zpos="-400.271" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="o/BekmqzckOHyvInTdVZaA=="/>
+		<POI MapID="1015" xpos="-190.361" ypos="416.8" zpos="-221.283" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="rr8ebyIjTE+xWFHNpQJlBw=="/>
+		<POI MapID="1015" xpos="220.21" ypos="413.712" zpos="89.8655" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="JXv6+QWlRUiBNI90L5qspA=="/>
+		<POI MapID="1015" xpos="386.88" ypos="412.886" zpos="-313.257" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="kSUB90c4YUKvH7CLNOHHZg=="/>
+		<POI MapID="1015" xpos="493.858" ypos="371.205" zpos="34.6063" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="DbW8Ugdoj0GI17vlZfS/EA=="/>
+		<POI MapID="1015" xpos="135.512" ypos="418.296" zpos="-0.772844" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="MLo+NjX7xUOtvXoZz4V1Qw=="/>
+		<POI MapID="1015" xpos="-114.527" ypos="415.551" zpos="43.8417" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="/vPa5FlSvk6URMicmPBHlw=="/>
+		<POI MapID="1015" xpos="-250.846" ypos="416.262" zpos="-110.255" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="b4tcrasiIU2TtIWkPtlcnA=="/>
+		<POI MapID="1015" xpos="27.2951" ypos="413.632" zpos="-283.065" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="uSaAuh5n/UOy010PxWHADA=="/>
+		<POI MapID="1015" xpos="63.2917" ypos="414.283" zpos="-340.955" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="6UegVluTI0qKhW75tNg6pA=="/>
+		<POI MapID="1015" xpos="-61.2933" ypos="416.496" zpos="40.7099" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="L0Z4r6Xl502AzWJuTHfXvA=="/>
+		<POI MapID="1015" xpos="-24.2481" ypos="403.737" zpos="199.967" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="1RPRXAZ1YEGMv5CiFstWeA=="/>
+		<POI MapID="1015" xpos="476.647" ypos="370.892" zpos="9.84532" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="vF5h//fPG0SdSeUWMSKumQ=="/>
+		<POI MapID="1015" xpos="293.695" ypos="389.126" zpos="-70.5899" type="classic_gw2.season2.silverwastes.chestfarm_chests" GUID="szyGREj/70acM8L0mPWTbA=="/>
+		<POI MapID="1015" xpos="58.6649" ypos="413.155" zpos="-93.7085" type="classic_gw2.season2.silverwastes.forts.indigofort" GUID="xGpIL/3iCkiw2ZUC5Tz+Hg=="/>
+		<POI MapID="1015" xpos="187.708" ypos="414.207" zpos="-325.315" type="classic_gw2.season2.silverwastes.forts.redfort" GUID="bIxvbW6RdkmItPTb0kdrQw=="/>
+		<POI MapID="1015" xpos="-275.218" ypos="416.113" zpos="-283.184" type="classic_gw2.season2.silverwastes.forts.amberfort" GUID="TChG3x3SfEGIGc6Y/sGnmA=="/>
+		<POI MapID="1015" xpos="-181.513" ypos="412.089" zpos="163.609" type="classic_gw2.season2.silverwastes.forts.bluefort" GUID="bYP16ylOrEmwZpuOIZTqDg=="/>
+		<Trail type="classic_gw2.season2.silverwastes.trails.riba" GUID="7tn/i/TSpEWIt51qJZBg+g==" alpha="1" fadeNear="3000" fadeFar="4000" color="ff0000ff" trailData="Trails/sw-riba.trl" animSpeed="1"/>
+		<Trail type="classic_gw2.season2.silverwastes.trails.cf" GUID="KaaFXqaz10CnbCTjBx+1Iw==" alpha="1" fadeNear="3000" fadeFar="4000" color="ff00ff00" trailData="Trails/sw-cf.trl" animSpeed="1"/>
+	</POIs>
+</OverlayData>
